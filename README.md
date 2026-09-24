@@ -4,4 +4,6 @@ I (try to) build products. Currently **[Hanfani](https://github.com/fruitizz/han
 
 > the agent proposes, a human approves, the server acts.
 
+Always eager to learn and willing to contribute to high-impact open source projects.
+
 Paris · mostly TypeScript
